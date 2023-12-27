@@ -1,0 +1,9 @@
+CustomDivisionException: Деление на ноль недопустимо.
+	at Division.divide(Division.java:11)
+	at Main.main(Main.java:9)
+CustomDivisionException: Деление на ноль недопустимо.
+	at Division.divide(Division.java:11)
+	at Main.main(Main.java:9)
+CustomDivisionException: Деление на ноль недопустимо.
+	at Division.divide(Division.java:11)
+	at Main.main(Main.java:9)
